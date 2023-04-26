@@ -11,5 +11,7 @@
   - xiaoP: 小P机器人接口；
 - scripts: 环境脚本；
 
+## 架构图
 
+![架构图](http://www.memcd.com/files/ai-proxy-architecture.png)
 
